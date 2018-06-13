@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 13, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Emily Knapik)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I learned how to create and complete an expense calculator application. I had to learn how to enter all of the commands and inouts in order for this application to work. )
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to complete an expense calculator application through cloud9.)
+2. (Adding more commands to the terminal in order to have the sites connect together and work properly.)
+3. (How to find a solution if there is an erorr in Github or in Cloud9.)
 
 
 
