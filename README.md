@@ -13,8 +13,8 @@ Web Application Development
 (In this assignment, I learned how to create and complete an expense calculator application. I had to learn how to enter all of the commands and inouts in order for this application to work. )
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+( https://emilyknapik.github.io/lesson4_javascript/
+https://github.com/emilyknapik/lesson4_javascript/)
 
 ### Lessons Learned in the Assignment:
 1. (How to complete an expense calculator application through cloud9.)
